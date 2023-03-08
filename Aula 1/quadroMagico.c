@@ -1,3 +1,6 @@
+// Gabriel Bellon de Carvalho - 802430.
+// Problema: Quadro Magico.
+
 #include <stdio.h>
 
 int main() {

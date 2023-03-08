@@ -1,3 +1,6 @@
+// Gabriel Bellon de Carvalho - 802430.
+// Problema: Huaauhahhuahau.
+
 #include <iostream>
 #include <string.h>
 
